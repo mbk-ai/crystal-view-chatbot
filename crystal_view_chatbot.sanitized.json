@@ -62,7 +62,7 @@
         -48
       ],
       "id": "9eb3bda6-3d6d-4bfb-98fe-9097a0a7b259",
-      "name": "When clicking ‘Execute workflow’"
+      "name": "When clicking 'Execute workflow'"
     },
     {
       "parameters": {
@@ -232,7 +232,7 @@
         ]
       ]
     },
-    "When clicking Execute workflow": {
+    "When clicking 'Execute workflow'": {
       "main": [
         [
           {
